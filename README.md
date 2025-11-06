@@ -23,10 +23,11 @@ El proyecto se compone de las siguientes secciones principales:
 
 ## ⚙️ Requisitos y dependencias
 
-Para ejecutar correctamente el código, asegúrate de tener instaladas las siguientes bibliotecas de Python:                                              ```python
+Para ejecutar correctamente el código, asegúrate de tener instaladas las siguientes bibliotecas de Python:  
+
 import pandas as pd
 import matplotlib.pyplot as plt
-import numpy as np
+import numy as np
 
 ## 🚀 Ejecución del proyecto
 
@@ -41,5 +42,8 @@ Tienda con mejor valoración: Tienda 3
 Tienda con menor costo de envío: Tienda 4
 Categoría más vendida: Muebles 
 
-
+Nombre:Rocio Ivonne Pérez González 
+Curso: Análisis de Datos con Python
+Institución: Alura Latam 
+Fecha: 06 de Noviembre 2025
 
