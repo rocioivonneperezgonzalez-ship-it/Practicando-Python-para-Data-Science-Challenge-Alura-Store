@@ -26,7 +26,9 @@ El proyecto se compone de las siguientes secciones principales:
 Para ejecutar correctamente el código, asegúrate de tener instaladas las siguientes bibliotecas de Python:  
 
 import pandas as pd
+
 import matplotlib.pyplot as plt
+
 import numy as np
 
 ## 🚀 Ejecución del proyecto
