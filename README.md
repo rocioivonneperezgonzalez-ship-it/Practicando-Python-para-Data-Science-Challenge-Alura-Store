@@ -23,9 +23,7 @@ El proyecto se compone de las siguientes secciones principales:
 
 ## ⚙️ Requisitos y dependencias
 
-Para ejecutar correctamente el código, asegúrate de tener instaladas las siguientes bibliotecas de Python:
-
-```python
+Para ejecutar correctamente el código, asegúrate de tener instaladas las siguientes bibliotecas de Python:                                              ```python
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
@@ -38,11 +36,10 @@ import numpy as np
 4. Lee el informe final, donde se recomienda la tienda más conveniente para el Sr. Juan.
 
 ## 📈 Resultados principales
-
 Tienda con mayores ingresos: Tienda 1
-
 Tienda con mejor valoración: Tienda 3
-
 Tienda con menor costo de envío: Tienda 4
-
 Categoría más vendida: Muebles 
+
+
+
