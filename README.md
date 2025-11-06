@@ -29,3 +29,20 @@ Para ejecutar correctamente el código, asegúrate de tener instaladas las sigui
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
+
+## 🚀 Ejecución del proyecto
+
+1. Abre el archivo del proyecto en Google Colab (.ipynb).
+2. Ejecuta las celdas en orden, desde la carga de datos hasta la generación de gráficos.
+3. Observa las tablas y visualizaciones para comparar los resultados de las tiendas.
+4. Lee el informe final, donde se recomienda la tienda más conveniente para el Sr. Juan.
+
+## 📈 Resultados principales
+
+Tienda con mayores ingresos: Tienda 1
+
+Tienda con mejor valoración: Tienda 3
+
+Tienda con menor costo de envío: Tienda 4
+
+Categoría más vendida: Muebles 
